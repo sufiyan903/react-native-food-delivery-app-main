@@ -42,7 +42,7 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 ### Contact
 
-If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/sufiyan-a-21a3b434a).
+If you want to contact me you can reach me at [LinkedIn](www.linkedin.com/in/sufiyan-a-21a3b434a/).
 
 ### License
 
